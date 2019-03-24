@@ -1,0 +1,1 @@
+#define UTS_RELEASE "4.14.117-g231fa425e8f4"
